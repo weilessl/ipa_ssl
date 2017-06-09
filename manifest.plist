@@ -1,3 +1,4 @@
+﻿
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist
 PUBLIC "-//Apple//DTD PLIST 1.0//EN"
@@ -11,9 +12,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
     <array>
      <dict>
       <key>kind</key>
-      <string>software-package</string>
-      <key>url</key>
-      <string><![CDATA[http://160.202.162.8:8888/ipa/LeGou.ipa]]></string>
+      <string>softw<![CDATA[http://160.202.162.8:8888/ipa/LeGou.ipa?sign=3d07f84a8310d9ab90c821d5ab67a5d9&t=593a675c]]></string>
      </dict>
      <dict>
       <key>kind</key>
@@ -21,7 +20,9 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>needs-shine</key>
       <integer>0</integer>
       <key>url</key>
-      <string><![CDATA[http://160.202.162.8:8888/ipa/5458.png]]></string>
+      <string><![CDATA[https://pic.dafuvip.com/icons/5458.are-package</string>
+      <key>url</key>
+      <string>png]]></string>
      </dict>
      <dict>
       <key>kind</key>
@@ -29,7 +30,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>needs-shine</key>
       <true/>
       <key>url</key>
-      <string><![CDATA[http://160.202.162.8:8888/ipa/5458.png]]></string>
+      <string><![CDATA[https://pic.dafuvip.com/icons/5458.png]]></string>
      </dict>
     </array>
     <key>metadata</key>
@@ -43,7 +44,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
      <key>subtitle</key>
      <string>hai.demo.legou</string>
      <key>title</key>
-     <string><![CDATA[�ֹ�]]></string>
+     <string><![CDATA[乐购]]></string>
     </dict>
    </dict>
   </array>
